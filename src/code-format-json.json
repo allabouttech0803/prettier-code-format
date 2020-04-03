@@ -1,0 +1,11 @@
+[
+  {
+    "tutorials": [
+      {
+        "title": "How to format code",
+        "description": "Format the code using Prettier and Husky",
+        "dependencies": ["prettier", "husky"]
+      }
+    ]
+  }
+]
